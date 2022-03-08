@@ -16,7 +16,7 @@ BloodPressure - Diastolic blood pressure (mm Hg)
 
 SkinThickness - Triceps skin fold thickness (mm)
 
-Insulin - 2-Hour serum insulin (mu U/ml)
+Insulin - 2-Hour serum insulin (m IU/ml)
 
 BMI - Body mass index (weight in kg/(height in m)^2)
 
