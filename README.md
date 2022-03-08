@@ -6,7 +6,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 ## ABOUT THIS FILE
 The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
-The data contains 747 rows and 9 columns :
+The data contains 768 rows and 9 columns :
 
 Pregnancies - Number of times pregnant 
 
