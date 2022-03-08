@@ -10,7 +10,7 @@ The data contains 747 rows and 9 columns :
 
 Pregnancies - Number of times pregnant 
 
-Glucose - Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+Glucose - Plasma glucose concentration a 2 hours in an oral glucose tolerance test(mg/dL)
 
 BloodPressure - Diastolic blood pressure (mm Hg)
 
